@@ -6,9 +6,14 @@ A collection of resources and links relating to sociotechnical architecture for 
 
 # People
 
-{Format: Name - 10 or fewer words describing their focus - Twitter - website}
+_{Format: Name - 10 or fewer words describing their focus - Twitter - website}_
 
-* Susanne Kaiser - Wardley Maps, DDD, Team Topologies  - [@suksr](https://twitter.com/suksr) - [susannekaiser.net](https://www.susannekaiser.net/)
+Alphabetically by name:
+
+* Eduardo da Silva - Sociotechnical Systems Architect - [@emgsilva](https://twitter.com/emgsilva) - [esilva.net](https://esilva.net/) 
+* Nick Tune - DDD, sociotechnical design, Team Topologies - [@ntcoding](https://twitter.com/ntcoding) - [ntcoding.co.uk](https://www.ntcoding.co.uk/)
+* Ruth Malan - architecting for agility, design, visual thinking, Conway's Law - [@ruthmalan](https://twitter.com/ruthmalan) - [ruthmalan.com](https://ruthmalan.com/)
+* Susanne Kaiser - Wardley Maps, DDD, Team Topologies - [@suksr](https://twitter.com/suksr) - [susannekaiser.net](https://www.susannekaiser.net/)
 
 
 # Resources
