@@ -8,7 +8,7 @@ A collection of resources and links relating to sociotechnical architecture for 
 
 {Format: Name - 10 or fewer words describing their focus - Twitter - website}
 
-* Susanne Kaiser - Wardley Maps, DDD, Team Topoloigies  - [@suksr](https://twitter.com/suksr) - [susannekaiser.net](https://www.susannekaiser.net/)
+* Susanne Kaiser - Wardley Maps, DDD, Team Topologies  - [@suksr](https://twitter.com/suksr) - [susannekaiser.net](https://www.susannekaiser.net/)
 
 
 # Resources
