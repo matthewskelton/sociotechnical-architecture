@@ -7,6 +7,7 @@ A collection of resources and links relating to sociotechnical architecture for 
 ## Overview
 
 ![Sociotechnical System - from https://www.researchgate.net/figure/Sociotechnical-system-STS-4_fig2_306242078](images/Sociotechnical-system-STS-4.png)
+_Sociotechnical System - from https://www.researchgate.net/figure/Sociotechnical-system-STS-4_fig2_306242078_
 
 > Sociotechnical architecture patterns are there to guide us into designing sociotechnical systems that channel the flow of work through our systems toward optimal business outcomes. Accordingly, we must diligently co-design the relationships in our social and technical architectures.
 
