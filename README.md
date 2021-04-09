@@ -4,6 +4,18 @@ A collection of resources and links relating to sociotechnical architecture for 
 
 > Licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
+## Overview
+
+![Sociotechnical System - from https://www.researchgate.net/figure/Sociotechnical-system-STS-4_fig2_306242078](images/Sociotechnical-system-STS-4.png)
+
+> Sociotechnical architecture patterns are there to guide us into designing sociotechnical systems that channel the flow of work through our systems toward optimal business outcomes. Accordingly, we must diligently co-design the relationships in our social and technical architectures.
+
+-- Nick Tune, [An Introduction to Sociotechnical Architecture Patterns](https://medium.com/nick-tune-tech-strategy-blog/an-introduction-to-sociotechnical-architecture-patterns-ea64a75c2aaf)
+
+> The foundation of Sociotechnical Architecture is to have a co-design approach to architecture, where we don't just look at the technical systems architecture of the product, but also to the organization system (teams) building and owning it. Why? Because they have a lot of influence on each other and neglecting is not allowing for a proper design and developments.
+
+-- Eduardo da Silva, [Introduction to Sociotechnical Architecture: Why & What is it](https://esilva.net/sociotechnical/sociotechnical-architecture_why-and-what.html)
+
 # People
 
 _{Format: Name - 10 or fewer words describing their focus - Twitter - website}_
