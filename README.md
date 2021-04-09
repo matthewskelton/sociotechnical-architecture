@@ -10,7 +10,8 @@ _{Format: Name - 10 or fewer words describing their focus - Twitter - website}_
 
 Alphabetically by name:
 
-* Eduardo da Silva - Sociotechnical Systems Architect - [@emgsilva](https://twitter.com/emgsilva) - [esilva.net](https://esilva.net/) 
+* Eduardo da Silva - Sociotechnical Systems Architect - [@emgsilva](https://twitter.com/emgsilva) - [esilva.net](https://esilva.net/)
+* Jessica Kerr - Sociotechnical Systems Architect, Symmathecist - [@jessitron](https://twitter.com/jessitron) - [jessitron.com](https://jessitron.com/)
 * Nick Tune - DDD, sociotechnical design, Team Topologies - [@ntcoding](https://twitter.com/ntcoding) - [ntcoding.co.uk](https://www.ntcoding.co.uk/)
 * Ruth Malan - architecting for agility, design, visual thinking, Conway's Law - [@ruthmalan](https://twitter.com/ruthmalan) - [ruthmalan.com](https://ruthmalan.com/)
 * Susanne Kaiser - Wardley Maps, DDD, Team Topologies - [@suksr](https://twitter.com/suksr) - [susannekaiser.net](https://www.susannekaiser.net/)
