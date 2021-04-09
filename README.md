@@ -1,4 +1,4 @@
-# Sociotechnical Architecture - sociotechnical-architecture
+# Sociotechnical Architecture - people and resources
 
 A collection of resources and links relating to sociotechnical architecture for software systems.
 
