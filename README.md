@@ -25,7 +25,7 @@ Alphabetically by name:
 
 * Diana Larsen - Author: Agile Retrospectives, Agile Fluency model - [@DianaOfPortland](https://twitter.com/DianaOfPortland) - [agilefluency.org](https://www.agilefluency.org/)
 * Eduardo da Silva - Sociotechnical Systems Architect - [@emgsilva](https://twitter.com/emgsilva) - [esilva.net](https://esilva.net/)
-* Ersin Er - pragmatic abstractor • architecting for scale, systems and modeling, tech leadership - [@ersiner](https://twitter.com/ersiner) - [architechlead.com](http://architechlead.com/)
+* Ersin Er - architecting for scale, systems and modeling, tech leadership - [@ersiner](https://twitter.com/ersiner)
 * Jabe Bloom - Gonzo Philosophy & Design for Industry & the Academy - [@cyetain](https://twitter.com/cyetain) - [jabe.co](http://jabe.co/)
 * Jessica Kerr - Sociotechnical Systems Architect, Symmathecist - [@jessitron](https://twitter.com/jessitron) - [jessitron.com](https://jessitron.com/)
 * Manuel Pais - Co-author of Team Topologies - [@manupaisable](https://twitter.com/manupaisable) - [manuelpais.net](https://www.manuelpais.net/)
