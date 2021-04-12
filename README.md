@@ -39,13 +39,16 @@ Alphabetically by name:
 
 # Books
 
-* 
+_{Format: title linked to suitable website - authors - publisher - year}_
+
+* [Team Topologies: organizing business and technology teams for fast flow](https://teamtopologies.com/book) - Matthew Skelton and Manuel Pais - IT Revolution press - 2019
 
 # Other resources
 
 Alphabetically by title:
 
 * [Nick Tune's Strategic Technology Blog](https://medium.com/nick-tune-tech-strategy-blog) - Nick Tune
+* [Ruth Malan's website](https://ruthmalan.com/) - a treasure trove of insights into sociotechnical architecture from Ruth Malan
 * [Sociotechnical Architecture & Systems](https://esilva.net/sociotechnical) - Eduardo da Silva
 
 
