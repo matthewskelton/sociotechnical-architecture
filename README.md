@@ -56,6 +56,7 @@ Alphabetically by title:
 * [Evelyn & Kenny - How cognitive bias and ranking can foster an ineffective architecture and design](https://www.youtube.com/watch?v=7ty0nwXNh-M)
 * [Nick Tune's Strategic Technology Blog](https://medium.com/nick-tune-tech-strategy-blog) - Nick Tune
 * [Ruth Malan's website](https://ruthmalan.com/) - a treasure trove of insights into sociotechnical architecture from Ruth Malan
+* [The Principles of Sociotechnical Design](https://journals.sagepub.com/doi/pdf/10.1177/001872677602900806) - 1972 paper by [Albert Cherns](https://prabook.com/web/albert_bernard.cherns/1036381)
 * [Sociotechnical Architecture & Systems](https://esilva.net/sociotechnical) - Eduardo da Silva
 * [Socio-technical architecture with Ora Egozi-Barzilai and Evelyn van Kelle](https://virtualddd.com/sessions/6) - Virtual Domain-Driven Design with Ora Egozi-Barzilai and Evelyn van Kelle
 * [Technical Leadership Masterclass preview material](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf) - Technical Leadership Masterclass Preview Material By Ruth and Dana, a great collection of knowledge.
