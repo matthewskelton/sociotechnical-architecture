@@ -21,24 +21,23 @@ _Sociotechnical System - from https://www.researchgate.net/figure/Sociotechnical
 
 _{Format: Name - 10 or fewer words describing their focus - Twitter - website}_
 
-Alphabetically by name:
+Alphabetically by first name:
 
 * Diana Larsen - Author: Agile Retrospectives, Agile Fluency model - [@DianaOfPortland](https://twitter.com/DianaOfPortland) - [agilefluency.org](https://www.agilefluency.org/)
 * Eduardo da Silva - Sociotechnical Systems Architect - [@emgsilva](https://twitter.com/emgsilva) - [esilva.net](https://esilva.net/)
 * Ersin Er - architecting for scale, systems and modeling, tech leadership - [@ersiner](https://twitter.com/ersiner)
+* Evelyn van Kelle - Social scientist, strategic software delivery consultant, fan of heuristics and Socio-technical super fan - [@evelynvankelle](https://twitter.com/EvelynvanKelle) - [https://evelynvankelle.com/](https://evelynvankelle.com/)
 * Jabe Bloom - Gonzo Philosophy & Design for Industry & the Academy - [@cyetain](https://twitter.com/cyetain) - [jabe.co](http://jabe.co/)
 * Jessica Kerr - Sociotechnical Systems Architect, Symmathecist - [@jessitron](https://twitter.com/jessitron) - [jessitron.com](https://jessitron.com/)
 * Manuel Pais - Co-author of Team Topologies - [@manupaisable](https://twitter.com/manupaisable) - [manuelpais.net](https://www.manuelpais.net/)
 * Matthew Skelton - Co-author of Team Topologies - [@matthewpskelton](https://twitter.com/matthewpskelton) - [matthewskelton.net](https://www.matthewskelton.net/)
 * Michael Plöd - Fellow at INNOQ, author of "Hands-on Domain-driven Design by example - [@bitboss](https://twitter.com/bitboss) - [leanpub.com/ddd-by-example](https://leanpub.com/ddd-by-example)
 * Nick Tune - DDD, sociotechnical design, Team Topologies - [@ntcoding](https://twitter.com/ntcoding) - [ntcoding.co.uk](https://www.ntcoding.co.uk/)
+* Ora Egozi - Software engineer for 15 years, DDD lover - [@EgoziOra](https://twitter.com/egoziora)
 * Ruth Malan - architecting for agility, design, visual thinking, Conway's Law - [@ruthmalan](https://twitter.com/ruthmalan) - [ruthmalan.com](https://ruthmalan.com/)
 * Sal Freudenberg - researcher into psychology of programming and distributed teams - [@SalFreudenberg](https://twitter.com/SalFreudenberg) - [salfreudenberg.wordpress.com](https://salfreudenberg.wordpress.com/)
 * Susanne Kaiser - Wardley Maps, DDD, Team Topologies - [@suksr](https://twitter.com/suksr) - [susannekaiser.net](https://www.susannekaiser.net/)
 * Trond Hjorteland - Aspiring sociotechnical systems designer at Scienta.no - [@trondhjort](https://twitter.com/trondhjort) - [trond.hjorteland.com](https://trond.hjorteland.com/)
-* Evelyn van Kelle - Social scientist, strategic software delivery consultant, fan of heuristics and Socio-technical super fan - [@evelynvankelle](https://twitter.com/EvelynvanKelle) - [https://evelynvankelle.com/](https://evelynvankelle.com/)
-* Ora Egozi - Software engineer for 15 years, DDD lover - [@EgoziOra](https://twitter.com/egoziora)
-
 
 # Books
 
