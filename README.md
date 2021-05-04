@@ -46,21 +46,24 @@ _{Format: title linked to suitable website - authors - publisher - year}_
 * [Team Topologies: organizing business and technology teams for fast flow](https://teamtopologies.com/book) - Matthew Skelton and Manuel Pais - IT Revolution press - 2019
 * [The Social Engagement of Social Science, a Tavistock Anthology, Volume 2: The Socio-Technical Perspective](https://www.goodreads.com/book/show/4873485-the-social-engagement-of-social-science-a-tavistock-anthology-volume-2) -  by Eric Trist (Editor), Hugh Murray (Editor) 1990
 
-
 # Other resources
 
 Alphabetically by title:
 
 * [A layman’s introduction to socio-technical systems](https://www.paulderaaij.nl/2020/01/30/a-laymans-introduction-to-socio-technical-systems/)
 * [Evelyn & Kenny - How cognitive bias and ranking can foster an ineffective architecture and design](https://www.youtube.com/watch?v=7ty0nwXNh-M)
+* [Evolving Tech-enabled Orgs Using Sociotechnical Architecture](https://esilva.net/articles/evolve_tech_orgs_using_sociotech) - Eduardo da Silva
+* [Introduction to Sociotechnical Architecture: Why & What is it](https://esilva.net/sociotechnical/sociotechnical-architecture_why-and-what.html) - Eduardo da Silva
+* [Introduction to Sociotechnical Architecture: Traits and Strategies](https://esilva.net/sociotechnical/sociotechnical-architecture_traits-and-strategies.html) - Eduardo da Silva
 * [Nick Tune's Strategic Technology Blog](https://medium.com/nick-tune-tech-strategy-blog) - Nick Tune
 * [Ruth Malan's website](https://ruthmalan.com/) - a treasure trove of insights into sociotechnical architecture from Ruth Malan
-* [The Principles of Sociotechnical Design](https://journals.sagepub.com/doi/pdf/10.1177/001872677602900806) - 1972 paper by [Albert Cherns](https://prabook.com/web/albert_bernard.cherns/1036381)
-* [Sociotechnical Architecture & Systems](https://esilva.net/sociotechnical) - Eduardo da Silva
+* [Sociotechnical Architecture & Systems resources page](https://esilva.net/sociotechnical) - Eduardo da Silva
+* [Sociotechnical Architecture as Enabler of Product Thinking](https://esilva.net/articles/sociotech_arch_enabling_prod_thinking) - Eduardo da Silva
 * [Socio-technical architecture with Ora Egozi-Barzilai and Evelyn van Kelle](https://virtualddd.com/sessions/6) - Virtual Domain-Driven Design with Ora Egozi-Barzilai and Evelyn van Kelle
+* [The Principles of Sociotechnical Design](https://journals.sagepub.com/doi/pdf/10.1177/001872677602900806) - 1972 paper by [Albert Cherns](https://prabook.com/web/albert_bernard.cherns/1036381)
 * [Technical Leadership Masterclass preview material](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf) - Technical Leadership Masterclass Preview Material By Ruth and Dana, a great collection of knowledge.
 * [Whole Work: Sociotechnicity & DevOps | Jabe Bloom](https://www.youtube.com/watch?v=WtfncGAeXWU)
 
 # Acknowledgement and thanks
 
-1. Thanks to Eduardo da Silva and Ersin Er for [starting (on Twitter) a list of people in the sociotechnical architecture space](https://twitter.com/emgsilva/status/1380452731287175170) 
+1. Thanks to Eduardo da Silva and Ersin Er for [starting (on Twitter) a list of people in the sociotechnical architecture space](https://twitter.com/emgsilva/status/1380452731287175170)
