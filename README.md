@@ -51,16 +51,24 @@ _{Format: title linked to suitable website - authors - publisher - year}_
 Alphabetically by title:
 
 * [A layman’s introduction to socio-technical systems](https://www.paulderaaij.nl/2020/01/30/a-laymans-introduction-to-socio-technical-systems/)
+* [An anthology of the socio-technical systems design (STSD) paradigm : from autonomous work groups to democratic dialogue and integral organizational renewal](https://research.tue.nl/en/publications/an-anthology-of-the-socio-technical-systems-design-stsd-paradigm-) - 1991 paper by [F.M van Eijnatten](https://nl.wikipedia.org/wiki/Frans_van_Eijnatten)
+* [Calvin Pava's Legacy: Sociotechnical Systems Design for the "Digital Coal Mines"](https://www.researchgate.net/publication/319472658_Calvin_Pava%27s_Legacy_Sociotechnical_Systems_Design_for_the_Digital_Coal_Mines) - 2018 paper by Austrom & Ordowich
+* [https://www.linkedin.com/pulse/democratisation-work-trond-hjorteland/](https://www.linkedin.com/pulse/democratisation-work-trond-hjorteland/) - Trond Hjorteland
 * [Evelyn & Kenny - How cognitive bias and ranking can foster an ineffective architecture and design](https://www.youtube.com/watch?v=7ty0nwXNh-M)
 * [Evolving Tech-enabled Orgs Using Sociotechnical Architecture](https://esilva.net/articles/evolve_tech_orgs_using_sociotech) - Eduardo da Silva
 * [Introduction to Sociotechnical Architecture: Why & What is it](https://esilva.net/sociotechnical/sociotechnical-architecture_why-and-what.html) - Eduardo da Silva
 * [Introduction to Sociotechnical Architecture: Traits and Strategies](https://esilva.net/sociotechnical/sociotechnical-architecture_traits-and-strategies.html) - Eduardo da Silva
 * [Nick Tune's Strategic Technology Blog](https://medium.com/nick-tune-tech-strategy-blog) - Nick Tune
+* [https://www.degruyter.com/document/doi/10.9783/9781512819052-040/html]() - 1993 paper by [Eric trist](https://en.wikipedia.org/wiki/Eric_Trist) 
+* [Redesigning Sociotechnical Systems Design: Concepts and Methods for the 1990s](https://journals.sagepub.com/doi/10.1177/002188638602200303) - 1996 paper by [Calvin Pava](https://www.chicagotribune.com/news/ct-xpm-1993-01-05-9303150732-story.html)
 * [Ruth Malan's website](https://ruthmalan.com/) - a treasure trove of insights into sociotechnical architecture from Ruth Malan
 * [Sociotechnical Architecture & Systems resources page](https://esilva.net/sociotechnical) - Eduardo da Silva
 * [Sociotechnical Architecture as Enabler of Product Thinking](https://esilva.net/articles/sociotech_arch_enabling_prod_thinking) - Eduardo da Silva
 * [Socio-technical architecture with Ora Egozi-Barzilai and Evelyn van Kelle](https://virtualddd.com/sessions/6) - Virtual Domain-Driven Design with Ora Egozi-Barzilai and Evelyn van Kelle
-* [The Principles of Sociotechnical Design](https://journals.sagepub.com/doi/pdf/10.1177/001872677602900806) - 1972 paper by [Albert Cherns](https://prabook.com/web/albert_bernard.cherns/1036381)
+* [Sociotechnical system](https://en.wikipedia.org/wiki/Sociotechnical_system) - Wikipedia
+* [Some Social and Psychological Consequences of the Longwall Method of Coal-Getting: An Examination of the Psychological Situation and Defences of a Work Group in Relation to the Social Structure and Technological Content of the Work System](https://journals.sagepub.com/doi/10.1177/001872675100400101) - seminal 1951 paper by [Eric trist](https://en.wikipedia.org/wiki/Eric_Trist) and Ken Bamforth
+* [Principles of Sociotechnical Design Revisted](https://journals.sagepub.com/doi/10.1177/001872678704000303) - 1987 paper by [Albert Cherns](https://prabook.com/web/albert_bernard.cherns/1036381)
+* [The story of socio-technical design: reflections on its successes, failures and potential](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2575.2006.00221.x) - 2006 paper by [Enid Mumford](https://en.wikipedia.org/wiki/Enid_Mumford)
 * [Technical Leadership Masterclass preview material](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf) - Technical Leadership Masterclass Preview Material By Ruth and Dana, a great collection of knowledge.
 * [Whole Work: Sociotechnicity & DevOps | Jabe Bloom](https://www.youtube.com/watch?v=WtfncGAeXWU)
 
