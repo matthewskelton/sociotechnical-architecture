@@ -66,6 +66,7 @@ Alphabetically by title:
 * [Sociotechnical Architecture as Enabler of Product Thinking](https://esilva.net/articles/sociotech_arch_enabling_prod_thinking) - Eduardo da Silva
 * [Socio-technical architecture with Ora Egozi-Barzilai and Evelyn van Kelle](https://virtualddd.com/sessions/6) - Virtual Domain-Driven Design with Ora Egozi-Barzilai and Evelyn van Kelle
 * [Sociotechnical system](https://en.wikipedia.org/wiki/Sociotechnical_system) - Wikipedia
+* [Sociotechnical Systems Design for the “Digital Coal Mines”](https://www.linkedin.com/pulse/sociotechnical-systems-design-digital-coal-mines-trond-hjorteland/) - Trond Hjorteland
 * [Some Social and Psychological Consequences of the Longwall Method of Coal-Getting: An Examination of the Psychological Situation and Defences of a Work Group in Relation to the Social Structure and Technological Content of the Work System](https://journals.sagepub.com/doi/10.1177/001872675100400101) - seminal 1951 paper by [Eric trist](https://en.wikipedia.org/wiki/Eric_Trist) and Ken Bamforth
 * [Principles of Sociotechnical Design Revisted](https://journals.sagepub.com/doi/10.1177/001872678704000303) - 1987 paper by [Albert Cherns](https://prabook.com/web/albert_bernard.cherns/1036381) ([1976 version](https://journals.sagepub.com/doi/pdf/10.1177/001872677602900806))
 * [The story of socio-technical design: reflections on its successes, failures and potential](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2575.2006.00221.x) - 2006 paper by [Enid Mumford](https://en.wikipedia.org/wiki/Enid_Mumford)
