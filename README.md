@@ -32,6 +32,7 @@ Alphabetically by first name:
 * Manuel Pais - Co-author of Team Topologies - [@manupaisable](https://twitter.com/manupaisable) - [manuelpais.net](https://www.manuelpais.net/)
 * Matthew Skelton - Co-author of Team Topologies - [@matthewpskelton](https://twitter.com/matthewpskelton) - [matthewskelton.net](https://www.matthewskelton.net/)
 * Michael Plöd - Fellow at INNOQ, author of "Hands-on Domain-driven Design by example - [@bitboss](https://twitter.com/bitboss) - [leanpub.com/ddd-by-example](https://leanpub.com/ddd-by-example)
+* Marco Consolaro - Software crafter, socio-technical coach, co-author of [Agile Technical Practices Distilled](https://leanpub.com/agiletechnicalpracticesdistilled) - [@consolondon](https://twitter.com/consolondon) - [www.Alcor.Academy](https://alcor.academy/)
 * Nick Tune - DDD, sociotechnical design, Team Topologies - [@ntcoding](https://twitter.com/ntcoding) - [ntcoding.co.uk](https://www.ntcoding.co.uk/)
 * Ora Egozi - Software engineer for 15 years, DDD lover - [@EgoziOra](https://twitter.com/egoziora)
 * Ruth Malan - architecting for agility, design, visual thinking, Conway's Law - [@ruthmalan](https://twitter.com/ruthmalan) - [ruthmalan.com](https://ruthmalan.com/)
@@ -59,7 +60,7 @@ Alphabetically by title:
 * [Introduction to Sociotechnical Architecture: Why & What is it](https://esilva.net/sociotechnical/sociotechnical-architecture_why-and-what.html) - Eduardo da Silva
 * [Introduction to Sociotechnical Architecture: Traits and Strategies](https://esilva.net/sociotechnical/sociotechnical-architecture_traits-and-strategies.html) - Eduardo da Silva
 * [Nick Tune's Strategic Technology Blog](https://medium.com/nick-tune-tech-strategy-blog) - Nick Tune
-* [Pava’s Extension of Socio-Technical Theory to Advanced Information Technologies](https://www.degruyter.com/document/doi/10.9783/9781512819052-040/html) - 1993 paper by [Eric trist](https://en.wikipedia.org/wiki/Eric_Trist) 
+* [Pava’s Extension of Socio-Technical Theory to Advanced Information Technologies](https://www.degruyter.com/document/doi/10.9783/9781512819052-040/html) - 1993 paper by [Eric trist](https://en.wikipedia.org/wiki/Eric_Trist)
 * [Redesigning Sociotechnical Systems Design: Concepts and Methods for the 1990s](https://journals.sagepub.com/doi/10.1177/002188638602200303) - 1996 paper by [Calvin Pava](https://www.chicagotribune.com/news/ct-xpm-1993-01-05-9303150732-story.html)
 * [Ruth Malan's website](https://ruthmalan.com/) - a treasure trove of insights into sociotechnical architecture from Ruth Malan
 * [Sociotechnical Architecture & Systems resources page](https://esilva.net/sociotechnical) - Eduardo da Silva
