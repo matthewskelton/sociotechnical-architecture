@@ -61,6 +61,7 @@ Alphabetically by title:
 * [Introduction to Sociotechnical Architecture: Traits and Strategies](https://esilva.net/sociotechnical/sociotechnical-architecture_traits-and-strategies.html) - Eduardo da Silva
 * [Nick Tune's Strategic Technology Blog](https://medium.com/nick-tune-tech-strategy-blog) - Nick Tune
 * [Pava’s Extension of Socio-Technical Theory to Advanced Information Technologies](https://www.degruyter.com/document/doi/10.9783/9781512819052-040/html) - 1993 paper by [Eric trist](https://en.wikipedia.org/wiki/Eric_Trist)
+* [Principles of Sociotechnical Design Revisted](https://journals.sagepub.com/doi/10.1177/001872678704000303) - 1987 paper by [Albert Cherns](https://prabook.com/web/albert_bernard.cherns/1036381) ([1976 version](https://journals.sagepub.com/doi/pdf/10.1177/001872677602900806))
 * [Redesigning Sociotechnical Systems Design: Concepts and Methods for the 1990s](https://journals.sagepub.com/doi/10.1177/002188638602200303) - 1996 paper by [Calvin Pava](https://www.chicagotribune.com/news/ct-xpm-1993-01-05-9303150732-story.html)
 * [Ruth Malan's website](https://ruthmalan.com/) - a treasure trove of insights into sociotechnical architecture from Ruth Malan
 * [Sociotechnical Architecture & Systems resources page](https://esilva.net/sociotechnical) - Eduardo da Silva
@@ -68,9 +69,8 @@ Alphabetically by title:
 * [Socio-technical architecture with Ora Egozi-Barzilai and Evelyn van Kelle](https://virtualddd.com/sessions/6) - Virtual Domain-Driven Design with Ora Egozi-Barzilai and Evelyn van Kelle
 * [Sociotechnical system](https://en.wikipedia.org/wiki/Sociotechnical_system) - Wikipedia
 * [Sociotechnical Systems Design for the “Digital Coal Mines”](https://www.linkedin.com/pulse/sociotechnical-systems-design-digital-coal-mines-trond-hjorteland/) - Trond Hjorteland
-* [Some Social and Psychological Consequences of the Longwall Method of Coal-Getting: An Examination of the Psychological Situation and Defences of a Work Group in Relation to the Social Structure and Technological Content of the Work System](https://journals.sagepub.com/doi/10.1177/001872675100400101) - seminal 1951 paper by [Eric trist](https://en.wikipedia.org/wiki/Eric_Trist) and Ken Bamforth
-* [Principles of Sociotechnical Design Revisted](https://journals.sagepub.com/doi/10.1177/001872678704000303) - 1987 paper by [Albert Cherns](https://prabook.com/web/albert_bernard.cherns/1036381) ([1976 version](https://journals.sagepub.com/doi/pdf/10.1177/001872677602900806))
-* [The story of socio-technical design: reflections on its successes, failures and potential](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2575.2006.00221.x) - 2006 paper by [Enid Mumford](https://en.wikipedia.org/wiki/Enid_Mumford)
+* [The evolution of socio-technical systems](https://www.lmmiller.com/blog/wp-content/uploads/2013/06/The-Evolution-of-Socio-Technical-Systems-Trist.pdf) - 1981 review paper by [Eric trist](https://en.wikipedia.org/wiki/Eric_Trist)
+* [The story of socio-technical design: reflections on its successes, failures and potential](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2575.2006.00221.x) - 2006 paper by [Enid Mumford](https://en.wikipedia.org/wiki/Enid Mumford)
 * [Technical Leadership Masterclass preview material](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf) - Technical Leadership Masterclass Preview Material By Ruth and Dana, a great collection of knowledge.
 * [Whole Work: Sociotechnicity & DevOps | Jabe Bloom](https://www.youtube.com/watch?v=WtfncGAeXWU)
 
