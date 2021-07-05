@@ -70,7 +70,7 @@ Alphabetically by title:
 * [Sociotechnical system](https://en.wikipedia.org/wiki/Sociotechnical_system) - Wikipedia
 * [Sociotechnical Systems Design for the “Digital Coal Mines”](https://www.linkedin.com/pulse/sociotechnical-systems-design-digital-coal-mines-trond-hjorteland/) - Trond Hjorteland
 * [The evolution of socio-technical systems](https://www.lmmiller.com/blog/wp-content/uploads/2013/06/The-Evolution-of-Socio-Technical-Systems-Trist.pdf) - 1981 review paper by [Eric trist](https://en.wikipedia.org/wiki/Eric_Trist)
-* [The story of socio-technical design: reflections on its successes, failures and potential](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2575.2006.00221.x) - 2006 paper by [Enid Mumford](https://en.wikipedia.org/wiki/Enid Mumford)
+* [The story of socio-technical design: reflections on its successes, failures and potential](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2575.2006.00221.x) - 2006 paper by [Enid Mumford](https://en.m.wikipedia.org/wiki/Enid_Mumford)
 * [Technical Leadership Masterclass preview material](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf) - Technical Leadership Masterclass Preview Material By Ruth and Dana, a great collection of knowledge.
 * [Whole Work: Sociotechnicity & DevOps | Jabe Bloom](https://www.youtube.com/watch?v=WtfncGAeXWU)
 
