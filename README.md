@@ -29,6 +29,7 @@ Alphabetically by first name:
 * Evelyn van Kelle - Social scientist, strategic software delivery consultant, fan of heuristics and Socio-technical super fan - [@evelynvankelle](https://twitter.com/EvelynvanKelle) - [https://evelynvankelle.com/](https://evelynvankelle.com/)
 * Jabe Bloom - Gonzo Philosophy & Design for Industry & the Academy - [@cyetain](https://twitter.com/cyetain) - [jabe.co](http://jabe.co/)
 * Jessica Kerr - Sociotechnical Systems Architect, Symmathecist - [@jessitron](https://twitter.com/jessitron) - [jessitron.com](https://jessitron.com/)
+* João Rosa - Independent consultant helping organisations bridging strategy and technology - [joaorosa.io](https://joaorosa.io) - [@joaorosa@mastodon.social](https://mastodon.social/@joaorosa) - [João Rosa](https://www.linkedin.com/in/joaoasrosa/) - [@joaoasrosa](twitter.com/joaoasrosa)
 * Manuel Pais - Co-author of Team Topologies - [@manupaisable](https://twitter.com/manupaisable) - [manuelpais.net](https://www.manuelpais.net/)
 * Matthew Skelton - Co-author of Team Topologies - [@matthewpskelton](https://twitter.com/matthewpskelton) - [matthewskelton.net](https://www.matthewskelton.net/)
 * Michael Plöd - Fellow at INNOQ, author of "Hands-on Domain-driven Design by example - [@bitboss](https://twitter.com/bitboss) - [leanpub.com/ddd-by-example](https://leanpub.com/ddd-by-example)
@@ -73,6 +74,7 @@ Alphabetically by title:
 * [The story of socio-technical design: reflections on its successes, failures and potential](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2575.2006.00221.x) - 2006 paper by [Enid Mumford](https://en.m.wikipedia.org/wiki/Enid_Mumford)
 * [Technical Leadership Masterclass preview material](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf) - Technical Leadership Masterclass Preview Material By Ruth and Dana, a great collection of knowledge.
 * [Whole Work: Sociotechnicity & DevOps | Jabe Bloom](https://www.youtube.com/watch?v=WtfncGAeXWU)
+* [Why should I care about sociotechnical systems? | João Rosa](https://speakerdeck.com/joaoasrosa/why-should-i-care-about-sociotechnical-systems)
 
 # Acknowledgement and thanks
 
